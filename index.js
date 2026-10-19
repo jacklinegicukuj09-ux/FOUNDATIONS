@@ -52,4 +52,4 @@ let isStudent = true; // boolean
 // EXAMPLES OF NON-PRIMITIVE DATA TYPES IN JAVASCRIPT ARE:
 let person = { name: "Jackline Wambui", age: 23 }; // object
 let colors = ["red", "green", "blue"]; // array
-let greet = function() { console.log("Hello!"); }; // function
+let greet = function() { console.log("Hello!"); }; // function 
